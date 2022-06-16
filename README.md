@@ -1,5 +1,6 @@
 ### Hi there 👋
-TODO: Make this interesting and pretty
+### I'm Dave, a fullstack developer in New York City.
+### I'm currently (6/2022) seeking employment! Get in touch: DaveMFriedman@gmail.com
 
 <!--
 **DaveFriedman/DaveFriedman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
