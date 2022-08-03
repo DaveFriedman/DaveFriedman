@@ -1,3 +1,3 @@
 ### Hi there 👋
-### I'm Dave, a fullstack developer in New York City.
+### I'm Dave, a full-stack developer in New York City.
 Get in touch! https://DaveFriedman.github.io/contact
